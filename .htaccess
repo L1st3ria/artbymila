@@ -1,0 +1,5 @@
+# Enable the use of mod_rewrite if not already enabled
+RewriteEngine On
+
+# Specify the order of default files
+DirectoryIndex index.php index.html
